@@ -474,7 +474,7 @@ public class Alicia_Loi_Assignment1 {
     }
 
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("tests");
         // student Data 
         String file = studentDataInput();
         int studentRows = numberOfRows(file);
